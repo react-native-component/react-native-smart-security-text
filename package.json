@@ -1,0 +1,26 @@
+{
+  "name": "react-native-smart-security-text",
+  "version": "1.0.0",
+  "description": "A smart security text for React Native app",
+  "main": "SecurityText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-component/react-native-smart-security-text.git"
+  },
+  "keywords": [
+    "react-native",
+    "smart",
+    "security",
+    "text",
+    "component"
+  ],
+  "author": "HISAME SHIZUMARU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/react-native-component/react-native-smart-security-text/issues"
+  },
+  "homepage": "https://github.com/react-native-component/react-native-smart-security-text#readme"
+}
