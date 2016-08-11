@@ -1,5 +1,5 @@
 {
-  "name": "react-native-smart-security-text",
+  "name": "@react-native-component/react-native-smart-security-text",
   "version": "1.0.0",
   "description": "A smart security text for React Native app",
   "main": "SecurityText.js",
