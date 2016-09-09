@@ -15,6 +15,10 @@ This component is compatible with React Native 0.25 and newer.
 npm install react-native-smart-security-text --save
 ```
 
+## Full Demo
+
+see [ReactNativeComponentDemos][0]
+
 ## Usage
 
 Install the button from npm with `npm install react-native-smart-security-text --save`.
@@ -142,6 +146,7 @@ securityOptions.endIndex     | number | Yes      |           | determines the en
 securityOptions.length       | number | Yes      |           | determines the length of security text
 securityOptions.securityChar | string | Yes      | '*'       | determines the securityChar of security text
 
+[0]: https://github.com/cyqresig/ReactNativeComponentDemos
 [1]: http://cyqresig.github.io/img/react-native-smart-security-text-preview-ios-v1.0.0.gif
 [2]: http://cyqresig.github.io/img/react-native-smart-security-text-preview-android-v1.0.0.gif
 [3]: https://facebook.github.io/react-native/docs/text.html
