@@ -15,7 +15,7 @@ import {
 
 export default class SecurityText extends Component {
 
-    static PropTypes = {
+    static propTypes = {
         ...Text.propTypes,
         securityOptions: PropTypes.shape({
             isSecurity: PropTypes.bool,
