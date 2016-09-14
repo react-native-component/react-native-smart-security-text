@@ -1,4 +1,10 @@
 # react-native-smart-security-text
+
+[![npm](https://img.shields.io/npm/v/react-native-smart-security-text.svg)](https://www.npmjs.com/package/react-native-smart-security-text)
+[![npm](https://img.shields.io/npm/dm/react-native-smart-security-text.svg)](https://www.npmjs.com/package/react-native-smart-security-text)
+[![npm](https://img.shields.io/npm/dt/react-native-smart-security-text.svg)](https://www.npmjs.com/package/react-native-smart-security-text)
+[![npm](https://img.shields.io/npm/l/react-native-smart-security-text.svg)](https://github.com/react-native-component/react-native-smart-security-text/blob/master/LICENSE)
+
 A smart security text for React Native apps, written in JS for cross-platform support.
 It works on iOS and Android.
 
